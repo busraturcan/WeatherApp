@@ -40,7 +40,6 @@ Weather information is retrieved using the selected city's geographic coordinate
 
 - Android Studio
 - Android SDK
-- Internet connection
 
 ### Installation
 
